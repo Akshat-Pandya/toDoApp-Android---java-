@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-anydpi-v26_add_round.xml.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-anydpi-v26/add_round.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-anydpi-v26_add.xml.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-anydpi-v26/add.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "com.example.todoapp-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "com.example.todoapp-main-40:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/layout_activity_update_create.xml.flat",
+        "source": "com.example.todoapp-main-40:/layout/activity_update_create.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/layout_activity_splash.xml.flat",
+        "source": "com.example.todoapp-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.todoapp-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-xxhdpi_add.png.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-xxhdpi/add.png"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_baseline_delete_24.xml.flat",
+        "source": "com.example.todoapp-main-40:/drawable/baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_baseline_add_24.xml.flat",
+        "source": "com.example.todoapp-main-40:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_my_gradient.xml.flat",
+        "source": "com.example.todoapp-main-40:/drawable/my_gradient.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/layout_recycler_task_layout.xml.flat",
+        "source": "com.example.todoapp-main-40:/layout/recycler_task_layout.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_add_foreground.xml.flat",
+        "source": "com.example.todoapp-main-40:/drawable/add_foreground.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.todoapp-main-40:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-hdpi_add.png.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-hdpi/add.png"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-mdpi_add.png.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-mdpi/add.png"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.todoapp-main-40:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.todoapp-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.todoapp-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/font_aclonica.xml.flat",
+        "source": "com.example.todoapp-main-40:/font/aclonica.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_my_gradient_alter.xml.flat",
+        "source": "com.example.todoapp-main-40:/drawable/my_gradient_alter.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-mdpi_add_round.png.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-mdpi/add_round.png"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_todo.png.flat",
+        "source": "com.example.todoapp-main-40:/drawable/todo.png"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_background_white.jpg.flat",
+        "source": "com.example.todoapp-main-40:/drawable/background_white.jpg"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-xxhdpi_add_round.png.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-xxhdpi/add_round.png"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_todo2.jpg.flat",
+        "source": "com.example.todoapp-main-40:/drawable/todo2.jpg"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_background_black.jpg.flat",
+        "source": "com.example.todoapp-main-40:/drawable/background_black.jpg"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-xhdpi_add.png.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-xhdpi/add.png"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-hdpi_add_round.png.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-hdpi/add_round.png"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_baseline_notifications_active_24.xml.flat",
+        "source": "com.example.todoapp-main-40:/drawable/baseline_notifications_active_24.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_rectangle.xml.flat",
+        "source": "com.example.todoapp-main-40:/drawable/rectangle.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-xxxhdpi_add_round.png.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-xxxhdpi/add_round.png"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-xhdpi_add_round.png.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-xhdpi/add_round.png"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_circle.xml.flat",
+        "source": "com.example.todoapp-main-40:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-xxxhdpi_add.png.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-xxxhdpi/add.png"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.todoapp-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_baseline_exit_to_app_24.xml.flat",
+        "source": "com.example.todoapp-main-40:/drawable/baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "com.example.todoapp-merged_res-38:/drawable_baseline_done_24.xml.flat",
+        "source": "com.example.todoapp-main-40:/drawable/baseline_done_24.xml"
+    }
+]

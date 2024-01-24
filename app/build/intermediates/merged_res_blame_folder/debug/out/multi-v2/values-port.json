@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.todoapp-mergeDebugResources-36:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pandy\\.gradle\\caches\\transforms-3\\c757433305b1050a736b38dea80c157b\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
