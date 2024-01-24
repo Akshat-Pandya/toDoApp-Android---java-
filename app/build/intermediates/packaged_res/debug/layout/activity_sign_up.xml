@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="7dp"
+        android:layout_marginBottom="7dp"
+        android:text="Sign Up"
+        android:textColor="@color/black"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTextEmailSignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/rectangle"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:padding="6dp"
+        android:paddingStart="12dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gray" />
+
+    <EditText
+        android:id="@+id/editTextPasswordSignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="6dp"
+        android:paddingStart="12dp"
+        android:background="@drawable/rectangle"
+        android:hint="Password"
+        android:textColorHint="@color/gray"
+        android:textColor="@color/black"
+        android:inputType="textPassword"
+        android:layout_below="@id/editTextEmailSignup"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btnsignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create Account"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/teal_700"
+        android:layout_below="@id/editTextPasswordSignup"
+        android:layout_marginTop="16dp"/>
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnsignup"
+        android:layout_marginTop="150dp"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
